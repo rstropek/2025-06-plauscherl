@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "timecockpit-mcp-prototyp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "tsx",
+        "C:\\Code\\GitHub\\timecockpit-mcp-prototype\\index.ts"
+      ],
+      "env": {
+        "TIMECOCKPIT_PAT": "7C7283956DA4E59FFD8F13066B4711447116A5D8A5BD35CEA3AF51417CA56F1C-1",
+        "TIMECOCKPIT_USER_EMAIL": "melanie+ki-test@software-architects.at"
+      }
+    }
+  }
+}
