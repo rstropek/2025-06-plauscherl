@@ -1,3 +1,3 @@
-for (let i = 0; i < 42; i++) {
+for (let i = 100; i >= 0; i--) {
     console.log(i);
 }
